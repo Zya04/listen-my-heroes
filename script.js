@@ -10,17 +10,17 @@
 			blockDescription.innerHTML = 'Ippo, le seul homme a m\'avoir motivé a faire du sport juste pour ça c\'est un exploit. ';
 			blockDescription.style.display ='inherit';
 		};
-		document.querySelector('#vegeta').onclick =function (){
-			blockDescription.innerHTML='Vegeta le prince du peuple des sayajins, je retiens surtout son sacrifice contre majin buu.'; 
+		document.querySelector('#israelman').onclick =function (){
+			blockDescription.innerHTML='Un super heros qui n\'existe pas.'; 
 			blockDescription.style.display ='inherit';
 
 		};
-		document.querySelector('#mom').onclick = function(){
-			blockDescription.innerHTML='Ma mere m\'a mis au monde il n\'y a rien de plus a dire.';
+		document.querySelector('#captain').onclick = function(){
+			blockDescription.innerHTML='Elle va défoncer Thanos.';
 			blockDescription.style.display ='inherit';
 		};
-		document.querySelector('#erza').onclick = function(){
-			blockDescription.innerHTML='Me juge pas Fairy tail était grave bien à ses débuts.';
+		document.querySelector('#riven').onclick = function(){
+			blockDescription.innerHTML='combo breaker.';
 			blockDescription.style.display ='inherit';
 		};
 		document.querySelector('#btn_1').onclick = function (){
